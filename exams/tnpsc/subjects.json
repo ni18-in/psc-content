@@ -1,0 +1,36 @@
+{
+  "subjects": [
+    {
+      "id": "general_tamil",
+      "name_ta": "பொதுத் தமிழ் (General Tamil)",
+      "name_en": "General Tamil (Grammar & Literature)",
+      "icon": "auto_stories",
+      "question_count": 25,
+      "chunk_file": "questions_general_tamil.json"
+    },
+    {
+      "id": "tamil_nadu_history",
+      "name_ta": "அலகு 8: தமிழ்நாட்டின் வரலாறு & பண்பாடு",
+      "name_en": "Unit 8: TN History & Culture",
+      "icon": "account_balance",
+      "question_count": 25,
+      "chunk_file": "questions_tamil_nadu_history.json"
+    },
+    {
+      "id": "general_studies",
+      "name_ta": "பொது அறிவியல் & இந்திய அரசியலமைப்பு",
+      "name_en": "General Studies & Indian Polity",
+      "icon": "gavel",
+      "question_count": 25,
+      "chunk_file": "questions_general_studies.json"
+    },
+    {
+      "id": "aptitude",
+      "name_ta": "திறனறிவும் மனக்கணக்கு நுண்ணறிவும்",
+      "name_en": "Aptitude & Mental Ability",
+      "icon": "calculate",
+      "question_count": 25,
+      "chunk_file": "questions_aptitude.json"
+    }
+  ]
+}

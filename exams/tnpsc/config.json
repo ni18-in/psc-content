@@ -1,0 +1,11 @@
+{
+  "exam_id": "tnpsc",
+  "content_version": "1.0.0",
+  "last_updated": "2026-09-05T12:00:00Z",
+  "chunks": [
+    "questions_general_tamil.json",
+    "questions_tamil_nadu_history.json",
+    "questions_general_studies.json",
+    "questions_aptitude.json"
+  ]
+}

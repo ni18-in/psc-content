@@ -1,0 +1,33 @@
+{
+  "subject_id": "general_studies",
+  "questions": [
+    {
+      "id": "mpsc_q_001",
+      "question": "What is the official state animal/symbol associated with ???????????",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "Official general knowledge question for ?????????? state competitive examinations.",
+      "is_pyq": true,
+      "pyq_year": 2024
+    },
+    {
+      "id": "mpsc_q_002",
+      "question": "Under which Article of the Constitution of India was the ?????????? ??????? ???? (MPSC) constituted?",
+      "options": [
+        "Article 315",
+        "Article 324",
+        "Article 280",
+        "Article 148"
+      ],
+      "correct_answer": 0,
+      "explanation": "Article 315 of the Constitution provides for Public Service Commissions for the Union and for the States.",
+      "is_pyq": true,
+      "pyq_year": 2023
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "id": "mpsc_mock_01",
+      "title": "MPSC Prep Full Prelims Mock 01",
+      "description": "Full length simulated practice test for MPSC Prep exam with timer.",
+      "duration_minutes": 120,
+      "total_questions": 5,
+      "negative_marking": 0.25,
+      "question_ids": [
+        "mpsc_q_001",
+        "mpsc_q_002",
+        "mpsc_q_003"
+      ]
+    }
+  ]
+}

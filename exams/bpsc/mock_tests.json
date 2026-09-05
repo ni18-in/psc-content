@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "id": "bpsc_prelims_mock_01",
+      "title": "BPSC CCE Prelims Full Mock Test 01",
+      "description": "नवीनतम BPSC पाठ्यक्रम एवं 1/3 नेगेटिव मार्किंग पर आधारित पूर्ण अभ्यास टेस्ट",
+      "duration_minutes": 120,
+      "total_questions": 150,
+      "negative_marking": 0.333,
+      "question_ids": []
+    },
+    {
+      "id": "bpsc_bihar_spl_mock_02",
+      "title": "बिहार विशेष एवं 1857 क्रांति सेक्शनल टेस्ट",
+      "description": "बिहार का इतिहास, भूगोल एवं स्वतंत्रता संग्राम से संबंधित अति-महत्वपूर्ण प्रश्न",
+      "duration_minutes": 45,
+      "total_questions": 50,
+      "negative_marking": 0.333,
+      "question_ids": []
+    }
+  ]
+}
