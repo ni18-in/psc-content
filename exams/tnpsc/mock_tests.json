@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "id": "tnpsc_group4_mock_01",
+      "title": "TNPSC Group 4 & VAO Full Mock Test 01",
+      "description": "200 வினாக்கள், 180 நிமிடங்கள் - பொதுத்தமிழ் (100) + பொது அறிவு (75) + கணிதம் (25). எதிர்மறை மதிப்பெண் இல்லை.",
+      "duration_minutes": 180,
+      "total_questions": 200,
+      "negative_marking": 0.0,
+      "question_ids": []
+    },
+    {
+      "id": "tnpsc_tamil_sectional_02",
+      "title": "பொதுத் தமிழ் மாதிரித் தேர்வு (100 வினாக்கள்)",
+      "description": "இலக்கணம், இலக்கியம், திருக்குறள் மற்றும் தமிழ் அறிஞர்கள் சிறப்பு மாதிரித் தேர்வு",
+      "duration_minutes": 90,
+      "total_questions": 100,
+      "negative_marking": 0.0,
+      "question_ids": []
+    }
+  ]
+}

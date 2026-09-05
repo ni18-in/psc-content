@@ -1,0 +1,13 @@
+{
+  "subjects": [
+    {
+      "id": "general_studies",
+      "name": "General Studies & GK",
+      "name_hi": "सामान्य अध्ययन",
+      "name_ta": "பொது அறிவு",
+      "icon": "school",
+      "question_count": 5,
+      "chunk_file": "questions_general.json"
+    }
+  ]
+}

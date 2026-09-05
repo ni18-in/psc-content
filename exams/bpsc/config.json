@@ -1,0 +1,11 @@
+{
+  "exam_id": "bpsc",
+  "content_version": "1.0.0",
+  "last_updated": "2026-09-05T12:00:00Z",
+  "chunks": [
+    "questions_bihar_gk.json",
+    "questions_modern_history.json",
+    "questions_general_science.json",
+    "questions_indian_polity.json"
+  ]
+}
