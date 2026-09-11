@@ -5,7 +5,7 @@
       "name_hi": "बिहार विशेष सामान्य ज्ञान",
       "name_en": "Bihar Special GK",
       "icon": "location_city",
-      "question_count": 25,
+      "question_count": 30,
       "chunk_file": "questions_bihar_gk.json"
     },
     {
@@ -13,7 +13,7 @@
       "name_hi": "आधुनिक भारत एवं राष्ट्रीय आन्दोलन",
       "name_en": "Modern Indian History",
       "icon": "history_edu",
-      "question_count": 25,
+      "question_count": 30,
       "chunk_file": "questions_modern_history.json"
     },
     {
@@ -21,7 +21,7 @@
       "name_hi": "सामान्य विज्ञान (General Science)",
       "name_en": "General Science",
       "icon": "science",
-      "question_count": 25,
+      "question_count": 30,
       "chunk_file": "questions_general_science.json"
     },
     {
@@ -29,8 +29,56 @@
       "name_hi": "भारतीय राजव्यवस्था एवं संविधान",
       "name_en": "Indian Polity & Constitution",
       "icon": "gavel",
-      "question_count": 25,
+      "question_count": 30,
       "chunk_file": "questions_indian_polity.json"
+    },
+    {
+      "id": "geography_environment",
+      "name_hi": "भूगोल एवं पर्यावरण (भारत व बिहार)",
+      "name_en": "Geography & Environment",
+      "icon": "public",
+      "question_count": 25,
+      "chunk_file": "questions_geography_environment.json"
+    },
+    {
+      "id": "economy_budget",
+      "name_hi": "भारतीय अर्थव्यवस्था एवं बिहार बजट",
+      "name_en": "Indian Economy & Bihar Budget",
+      "icon": "trending_up",
+      "question_count": 25,
+      "chunk_file": "questions_economy_budget.json"
+    },
+    {
+      "id": "ancient_medieval_history",
+      "name_hi": "प्राचीन एवं मध्यकालीन भारत का इतिहास",
+      "name_en": "Ancient & Medieval History",
+      "icon": "auto_stories",
+      "question_count": 25,
+      "chunk_file": "questions_ancient_medieval_history.json"
+    },
+    {
+      "id": "bpsc_pyq_69th",
+      "name_hi": "69वीं बीपीएससी संयुक्त प्रारंभिक परीक्षा (2023)",
+      "name_en": "69th BPSC Prelims PYQ (2023)",
+      "icon": "verified",
+      "question_count": 25,
+      "chunk_file": "questions_pyq_69th_cce.json"
+    },
+    {
+      "id": "bpsc_pyq_68th",
+      "name_hi": "68वीं बीपीएससी संयुक्त प्रारंभिक परीक्षा (2023)",
+      "name_en": "68th BPSC Prelims PYQ (2023)",
+      "icon": "verified",
+      "question_count": 25,
+      "chunk_file": "questions_pyq_68th_cce.json"
+    },
+    {
+      "id": "bpsc_pyq_67th",
+      "name_hi": "67वीं बीपीएससी संयुक्त प्रारंभिक परीक्षा (2022)",
+      "name_en": "67th BPSC Prelims PYQ (2022)",
+      "icon": "verified",
+      "question_count": 25,
+      "chunk_file": "questions_pyq_67th_cce.json"
     }
   ]
 }

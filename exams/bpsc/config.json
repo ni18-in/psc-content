@@ -1,11 +1,17 @@
 {
   "exam_id": "bpsc",
-  "content_version": "1.0.0",
-  "last_updated": "2026-09-05T12:00:00Z",
+  "content_version": "1.1.0",
+  "last_updated": "2026-09-12T00:00:00Z",
   "chunks": [
     "questions_bihar_gk.json",
     "questions_modern_history.json",
     "questions_general_science.json",
-    "questions_indian_polity.json"
+    "questions_indian_polity.json",
+    "questions_geography_environment.json",
+    "questions_economy_budget.json",
+    "questions_ancient_medieval_history.json",
+    "questions_pyq_69th_cce.json",
+    "questions_pyq_68th_cce.json",
+    "questions_pyq_67th_cce.json"
   ]
 }

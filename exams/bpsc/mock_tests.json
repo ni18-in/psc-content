@@ -3,20 +3,97 @@
     {
       "id": "bpsc_prelims_mock_01",
       "title": "BPSC CCE Prelims Full Mock Test 01",
-      "description": "नवीनतम BPSC पाठ्यक्रम एवं 1/3 नेगेटिव मार्किंग पर आधारित पूर्ण अभ्यास टेस्ट",
+      "description": "नवीनतम BPSC पाठ्यक्रम, 1/3 नेगेटिव मार्किंग एवं संपूर्ण सामान्य अध्ययन पर आधारित पूर्ण अभ्यास टेस्ट",
       "duration_minutes": 120,
       "total_questions": 150,
       "negative_marking": 0.333,
       "question_ids": []
     },
     {
-      "id": "bpsc_bihar_spl_mock_02",
-      "title": "बिहार विशेष एवं 1857 क्रांति सेक्शनल टेस्ट",
-      "description": "बिहार का इतिहास, भूगोल एवं स्वतंत्रता संग्राम से संबंधित अति-महत्वपूर्ण प्रश्न",
-      "duration_minutes": 45,
-      "total_questions": 50,
+      "id": "bpsc_prelims_mock_02",
+      "title": "BPSC CCE Prelims Full Mock Test 02",
+      "description": "बिहार विशेष, आधुनिक भारत, विज्ञान, भूगोल एवं राजव्यवस्था का संयुक्त पाठ्यक्रम अभ्यास प्रश्न पत्र",
+      "duration_minutes": 120,
+      "total_questions": 150,
       "negative_marking": 0.333,
       "question_ids": []
+    },
+    {
+      "id": "bpsc_pyq_69th_exam",
+      "title": "69वीं बीपीएससी संयुक्त प्रारंभिक परीक्षा (2023) - PYQ",
+      "description": "30 सितंबर 2023 को आयोजित 69वीं BPSC CCE प्रारंभिक परीक्षा का प्रामाणिक प्रश्न पत्र",
+      "duration_minutes": 120,
+      "total_questions": 25,
+      "negative_marking": 0.333,
+      "question_ids": [
+        "bpsc_pyq69_001", "bpsc_pyq69_002", "bpsc_pyq69_003", "bpsc_pyq69_004", "bpsc_pyq69_005",
+        "bpsc_pyq69_006", "bpsc_pyq69_007", "bpsc_pyq69_008", "bpsc_pyq69_009", "bpsc_pyq69_010",
+        "bpsc_pyq69_011", "bpsc_pyq69_012", "bpsc_pyq69_013", "bpsc_pyq69_014", "bpsc_pyq69_015",
+        "bpsc_pyq69_016", "bpsc_pyq69_017", "bpsc_pyq69_018", "bpsc_pyq69_019", "bpsc_pyq69_020",
+        "bpsc_pyq69_021", "bpsc_pyq69_022", "bpsc_pyq69_023", "bpsc_pyq69_024", "bpsc_pyq69_025"
+      ]
+    },
+    {
+      "id": "bpsc_pyq_68th_exam",
+      "title": "68वीं बीपीएससी संयुक्त प्रारंभिक परीक्षा (2023) - PYQ",
+      "description": "12 फरवरी 2023 को आयोजित 68वीं BPSC CCE प्रारंभिक परीक्षा का प्रामाणिक प्रश्न पत्र",
+      "duration_minutes": 120,
+      "total_questions": 25,
+      "negative_marking": 0.333,
+      "question_ids": [
+        "bpsc_pyq68_001", "bpsc_pyq68_002", "bpsc_pyq68_003", "bpsc_pyq68_004", "bpsc_pyq68_005",
+        "bpsc_pyq68_006", "bpsc_pyq68_007", "bpsc_pyq68_008", "bpsc_pyq68_009", "bpsc_pyq68_010",
+        "bpsc_pyq68_011", "bpsc_pyq68_012", "bpsc_pyq68_013", "bpsc_pyq68_014", "bpsc_pyq68_015",
+        "bpsc_pyq68_016", "bpsc_pyq68_017", "bpsc_pyq68_018", "bpsc_pyq68_019", "bpsc_pyq68_020",
+        "bpsc_pyq68_021", "bpsc_pyq68_022", "bpsc_pyq68_023", "bpsc_pyq68_024", "bpsc_pyq68_025"
+      ]
+    },
+    {
+      "id": "bpsc_pyq_67th_exam",
+      "title": "67वीं बीपीएससी संयुक्त प्रारंभिक परीक्षा (2022) - PYQ",
+      "description": "30 सितंबर 2022 को आयोजित 67वीं BPSC CCE पुनर्परीक्षा का प्रामाणिक प्रश्न पत्र",
+      "duration_minutes": 120,
+      "total_questions": 25,
+      "negative_marking": 0.0,
+      "question_ids": [
+        "bpsc_pyq67_001", "bpsc_pyq67_002", "bpsc_pyq67_003", "bpsc_pyq67_004", "bpsc_pyq67_005",
+        "bpsc_pyq67_006", "bpsc_pyq67_007", "bpsc_pyq67_008", "bpsc_pyq67_009", "bpsc_pyq67_010",
+        "bpsc_pyq67_011", "bpsc_pyq67_012", "bpsc_pyq67_013", "bpsc_pyq67_014", "bpsc_pyq67_015",
+        "bpsc_pyq67_016", "bpsc_pyq67_017", "bpsc_pyq67_018", "bpsc_pyq67_019", "bpsc_pyq67_020",
+        "bpsc_pyq67_021", "bpsc_pyq67_022", "bpsc_pyq67_023", "bpsc_pyq67_024", "bpsc_pyq67_025"
+      ]
+    },
+    {
+      "id": "bpsc_bihar_spl_mock_03",
+      "title": "बिहार विशेष एवं 1857 क्रांति सेक्शनल टेस्ट",
+      "description": "बिहार का इतिहास, भूगोल, कला-संस्कृति एवं स्वतंत्रता संग्राम से संबंधित अति-महत्वपूर्ण 30 प्रश्न",
+      "duration_minutes": 45,
+      "total_questions": 30,
+      "negative_marking": 0.333,
+      "question_ids": [
+        "bpsc_bgk_001", "bpsc_bgk_002", "bpsc_bgk_003", "bpsc_bgk_004", "bpsc_bgk_005",
+        "bpsc_bgk_006", "bpsc_bgk_007", "bpsc_bgk_008", "bpsc_bgk_009", "bpsc_bgk_010",
+        "bpsc_bgk_011", "bpsc_bgk_012", "bpsc_bgk_013", "bpsc_bgk_014", "bpsc_bgk_015",
+        "bpsc_bgk_016", "bpsc_bgk_017", "bpsc_bgk_018", "bpsc_bgk_019", "bpsc_bgk_020",
+        "bpsc_bgk_021", "bpsc_bgk_022", "bpsc_bgk_023", "bpsc_bgk_024", "bpsc_bgk_025",
+        "bpsc_bgk_026", "bpsc_bgk_027", "bpsc_bgk_028", "bpsc_bgk_029", "bpsc_bgk_030"
+      ]
+    },
+    {
+      "id": "bpsc_science_sectional_mock",
+      "title": "सामान्य विज्ञान विशेष सेक्शनल टेस्ट",
+      "description": "भौतिकी, रसायन विज्ञान एवं जीव विज्ञान से संबंधित उच्च-स्तरीय 30 अभ्यास प्रश्न",
+      "duration_minutes": 45,
+      "total_questions": 30,
+      "negative_marking": 0.333,
+      "question_ids": [
+        "bpsc_sci_001", "bpsc_sci_002", "bpsc_sci_003", "bpsc_sci_004", "bpsc_sci_005",
+        "bpsc_sci_006", "bpsc_sci_007", "bpsc_sci_008", "bpsc_sci_009", "bpsc_sci_010",
+        "bpsc_sci_011", "bpsc_sci_012", "bpsc_sci_013", "bpsc_sci_014", "bpsc_sci_015",
+        "bpsc_sci_016", "bpsc_sci_017", "bpsc_sci_018", "bpsc_sci_019", "bpsc_sci_020",
+        "bpsc_sci_021", "bpsc_sci_022", "bpsc_sci_023", "bpsc_sci_024", "bpsc_sci_025",
+        "bpsc_sci_026", "bpsc_sci_027", "bpsc_sci_028", "bpsc_sci_029", "bpsc_sci_030"
+      ]
     }
   ]
 }
