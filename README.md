@@ -69,3 +69,37 @@ https://cdn.jsdelivr.net/gh/<YOUR_GITHUB_USERNAME>/psc-content@main/exams/<EXAM_
    ```dart
    cdnRepo: '<YOUR_GITHUB_USERNAME>/psc-content'
    ```
+
+---
+
+## 🧹 Purging jsDelivr CDN Cache
+
+When you push new questions or update `config.json`, jsDelivr caches files across global edge locations. You can purge the cache in three ways:
+
+### 1. Automated (GitHub Actions)
+This repository includes [`.github/workflows/purge_cdn.yml`](file:///.github/workflows/purge_cdn.yml), which **automatically purges the CDN cache on every push to `main`** affecting `exams/**`. You can also trigger it manually from the GitHub Actions tab.
+
+### 2. Command-Line CLI (`purge_cdn.py`)
+Run the Python script locally to purge all files or a specific exam:
+```bash
+# Purge all BPSC content
+python scripts/purge_cdn.py --exam bpsc
+
+# Purge ALL exams (BPSC, TNPSC, MPSC, etc.)
+python scripts/purge_cdn.py
+
+# Specify custom repository or branch
+python scripts/purge_cdn.py --repo ni18-in/psc-content --branch main --exam bpsc
+```
+
+### 3. Windows 1-Click (`purge_cdn.bat`)
+Double-click `scripts\purge_cdn.bat` or run:
+```cmd
+scripts\purge_cdn.bat --exam bpsc
+```
+
+### 4. Direct Browser / Curl Purge
+You can also purge any individual file instantly by replacing `cdn.jsdelivr.net` with `purge.jsdelivr.net`:
+```text
+https://purge.jsdelivr.net/gh/<USER>/psc-content@main/exams/bpsc/config.json
+```

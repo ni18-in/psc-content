@@ -1,0 +1,35 @@
+name: Purge jsDelivr CDN Cache
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'exams/**'
+  workflow_dispatch:
+    inputs:
+      exam:
+        description: 'Exam to purge (leave empty for ALL exams)'
+        required: false
+        default: ''
+
+jobs:
+  purge:
+    name: Invalidate jsDelivr Edge Caches
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run CDN Purge Script
+        run: |
+          if [ -n "${{ github.event.inputs.exam }}" ]; then
+            python scripts/purge_cdn.py --repo "${{ github.repository }}" --branch "${{ github.ref_name }}" --exam "${{ github.event.inputs.exam }}"
+          else
+            python scripts/purge_cdn.py --repo "${{ github.repository }}" --branch "${{ github.ref_name }}"
+          fi
